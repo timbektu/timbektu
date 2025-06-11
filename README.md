@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timbektu
 - 👀 I’m interested in Generative AI, Robotics
 - 🌱 I’m currently learning topics in Photogrammetry
-- 📫 How to reach me argo@cmu.edu
+- 📫 How to reach me anujraajg@gmail.com
 
 <!---
 timbektu/timbektu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
